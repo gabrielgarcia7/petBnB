@@ -3,7 +3,10 @@ Aplicação simples, com integração com banco de dados, simulando parte do pro
 
 <h3>Desenvolvedores</h3>
 <ul>
-  <li></li>
+  <li>Caio Augusto Duarte Basso</li>
+  <li>Gabriel Garcia Lorencetti</li>
+  <li>Giovana Daniele da Silva</li>
+  <li>Luíza Pereira Pinto Machado</li>
 <ul>
   
 <h3>Descrição</h3>
