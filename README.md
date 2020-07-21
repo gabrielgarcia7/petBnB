@@ -1,5 +1,5 @@
 # petBnB
-Aplicação simples, com integração com banco de dados, simulando parte do projeto de contrato temporário de itens e serviços para animais de estimação.<br>
+Aplicação simples, com integração com banco de dados, parte do projeto de contrato temporário de itens e serviços para animais de estimação.<br>
 
 <h3>Desenvolvedores</h3>
 <ul>
