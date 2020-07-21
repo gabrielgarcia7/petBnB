@@ -7,7 +7,7 @@ Aplicação simples, com integração com banco de dados, simulando parte do pro
   <li>Gabriel Garcia Lorencetti</li>
   <li>Giovana Daniele da Silva</li>
   <li>Luíza Pereira Pinto Machado</li>
-<ul>
+</ul>
   
 <h3>Descrição</h3>
 <p>O projeto tinha por objetivo o oferecimento de algumas variedades de contratos temporários de produtos e serviços destinados aos animais (por intermédio, é claro, de seus apaixonados donos), sendo elas os serviços de adestramento, passeio e hospedagem e, ainda, a possibilidade do aluguel de itens
