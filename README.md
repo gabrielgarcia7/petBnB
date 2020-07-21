@@ -1,6 +1,6 @@
 # petBnB
 <p>Projeto de contrato temporário de itens e serviços para animais de estimação, cujo objetivo principal é o desenvolvimento de um sistema de banco de dados para uma aplicação baseada em economia colaborativa.</p>
-<p>O foco do projeto é a base de dados do sistema, projetada para persistência de dados. Além disso, com o objetivo de integrar conhecimento de disciplinas distintas e aproximar o projeto de um cenário mais prático e real, foi desenvolvido um protótipo simples do sistema para o usuário final, com funcionalidades relevantes para o contexto proposto.</p><br>
+<p>O foco do projeto é a base de dados do sistema, projetada para persistência de dados. Além disso, com o objetivo de integrar conhecimento de disciplinas distintas e aproximar o projeto de um cenário mais prático e real, foi desenvolvido um protótipo simples do sistema para o usuário final, com funcionalidades relevantes para o contexto proposto na disciplina SSC0240 – Bases de Dados.</p><br>
 
 <h3>Desenvolvedores</h3>
 <ul>
