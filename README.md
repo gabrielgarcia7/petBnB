@@ -1,5 +1,5 @@
 # petBnB
-Aplicação simples, com integração com banco de dados, parte do projeto de contrato temporário de itens e serviços para animais de estimação.<br>
+Aplicação simples, com integração com banco de dados, parte do projeto de contrato temporário de itens e serviços para animais de estimação.<br><br>
 
 <h3>Desenvolvedores</h3>
 <ul>
@@ -28,7 +28,7 @@ $ brew install xmlto
 $ brew install libpqxx
 ```
 
-<br>Execução<h3>
+<br><h3>Execução</h3>
   <p>Para compilar:</p>
   
   ```
