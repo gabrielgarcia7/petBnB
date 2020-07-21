@@ -17,6 +17,7 @@ Aplicação simples, com integração com banco de dados, parte do projeto de co
 
 <h3>Instalação</h3>
 <p>As seguintes diretivas foram executadas no terminal de forma a prover todas as dependências necessárias à aplicação. Vale ressaltar que tanto o compilador g++ como o psql e o pgadmin haviam sido previamente instalados na máquina (logo, suas instalações não constam a seguir).</p>
+
 ```
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/Linuxbrew/install/master/install.sh)"
 
