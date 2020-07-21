@@ -45,4 +45,7 @@ $ brew install libpqxx
   <ul>
   <li><a href="//github.com/giovanadanieles/petBnB/raw/master/modelagem/MR.pdf" target="_blank">Diagrama Entidade Relacionamento (DER)</a>;</li>
   <li><a href="//github.com/giovanadanieles/petBnB/raw/master/modelagem/MR.pdf" target="_blank">Modelo Relacionar (MR)</a>.</li>
+  
+  ![alt text](https://raw.githubusercontent.com/giovanadanieles/petBnB/master/modelagem/MR.png)
+  
   </ul>
